@@ -11,3 +11,6 @@
 10. cross attention的第二个attention，其mask是输入的source mask，因为，K和V来自于encoder的输出。
 
 
+![IMG_20251027_162333](https://github.com/user-attachments/assets/11e546db-3b23-4d23-a4b5-fbca8caf1d71)
+
+![IMG_20251028_101337](https://github.com/user-attachments/assets/35a7c749-6bdd-4e52-93ab-1dfc009bfc29)
